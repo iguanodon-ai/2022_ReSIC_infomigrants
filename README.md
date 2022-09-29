@@ -23,7 +23,7 @@ Ce projet comporte deux grandes étapes : la récupération des données sur le 
 - article, avec un identifiant unique. Eg: `article_e0ebb83e4b69327ee5acacebf1f49b88`
 - date, en format YYYY/MM/JJ. Eg: `date_2019/09/09`
 - date-mois, en format YYYY/MM. Eg: `date-mois_2019/09` 
-- auteur, le média. Dans le cas où le nom de l'auteur.trice est mentionné, ce dernier a été remplacé.e par son média. Eg: `auteur_DW`
+- auteur, le média. Dans le cas où le nom de l'auteur.trice est mentionné, ce dernier a été remplacé par son média. Eg: `auteur_DW`
 - pays, catégorie présente sur le site. Eg: `pays_Zimbabwe`
 - catégorie, selon la classification sur le site. Eg: `catégorie_Features`
 - URL, l'adresse web de l'article. Eg: `URL_http://www.infomigrants.net/en/post/19375/moscow-refugees-locals-dance-to-the-same-tune`
