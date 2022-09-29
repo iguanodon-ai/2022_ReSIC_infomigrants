@@ -12,7 +12,7 @@ Ce projet comporte deux grandes étapes : la récupération des données sur le 
 
 ### Récupérer les données
 
-1. Installer l'extension Chrome [webscraper.io](webscraper.io)
+1. Installer l'extension Chrome [webscraper.io](https://webscraper.io)
 2. Importer un `sitemap` : le fichier `sitemap.txt` décrit la structure des données à récupérer sur le site
 3. Lancer le scraping et placer l'export du scraping en format `csv` dans `data/work`. Si `data/work` n'existe pas, le créer. L'export doit se nommer `scraped.csv`. Soit le renommer, soit changer la valeur de la variable `DATA` en ligne 5 de `main.py`
 
